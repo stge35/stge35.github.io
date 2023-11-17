@@ -21,7 +21,7 @@ tags: [github, branch]
 
 1. 변경 하려는 **Repository** 로 이동한 후 왼쪽 상단의 [branch] 메뉴를 클릭.
 
-<img src="../images/2023-11-17-change-branch-name/screenshoot1.png">
+![images](../images/2023-11-17-change-branch-name/screenshoot1.png)
 
 2. 오른쪽의 **연필모양 아이콘** 을 선택.
 
