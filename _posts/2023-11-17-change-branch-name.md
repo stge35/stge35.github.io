@@ -25,11 +25,11 @@ tags: [github, branch]
 
 2. 오른쪽의 **연필모양 아이콘** 을 선택.
 
-<img src="../images/2023-11-17-change-branch-name/screenshoot2.png">
+<img alt="screenshoot1.png" src="https://github.com/stge35/stge35.github.io/blob/main/images/2023-11-17-change-branch-name/screenshoot2.png?raw=true">
 
 3. master 를 main으로 변경 후 **Rename branch** 클릭.
 
-<img src="../images/2023-11-17-change-branch-name/screenshoot3.png">
+<img alt="screenshoot1.png" src="https://github.com/stge35/stge35.github.io/blob/main/images/2023-11-17-change-branch-name/screenshoot3.png?raw=true">
 
 4. **로컬 Repository** 에서 아래의 **명령어** 를 차례대로 실행해 업데이트를 합니다.
 
