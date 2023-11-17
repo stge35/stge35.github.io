@@ -21,7 +21,7 @@ tags: [github, branch]
 
 1. 변경 하려는 **Repository** 로 이동한 후 왼쪽 상단의 [branch] 메뉴를 클릭.
 
-![images](../images/2023-11-17-change-branch-name/screenshoot1.png)
+<img alt="screenshoot1.png" src="https://github.com/stge35/stge35.github.io/blob/main/images/2023-11-17-change-branch-name/screenshoot1.png?raw=true">
 
 2. 오른쪽의 **연필모양 아이콘** 을 선택.
 
