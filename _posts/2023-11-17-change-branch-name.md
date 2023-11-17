@@ -21,15 +21,15 @@ tags: [github, branch]
 
 1. 변경 하려는 **Repository** 로 이동한 후 왼쪽 상단의 [branch] 메뉴를 클릭.
 
-![스크린샷 2023-11-17 오후 6.26.37.png](..%2Fimages%2F2023-11-17-change-branch-name%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-17%20%EC%98%A4%ED%9B%84%206.26.37.png)
+![images](../images/2023-11-17-change-branch-name/screenshoot1.png)
 
 2. 오른쪽의 **연필모양 아이콘** 을 선택.
 
-![스크린샷 2023-11-17 오후 6.28.10.png](..%2Fimages%2F2023-11-17-change-branch-name%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-17%20%EC%98%A4%ED%9B%84%206.28.10.png)
+![images](../images/2023-11-17-change-branch-name/screenshoot2.png)
 
 3. master 를 main으로 변경 후 **Rename branch** 클릭.
 
-![스크린샷 2023-11-17 오후 6.30.22.png](..%2Fimages%2F2023-11-17-change-branch-name%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-17%20%EC%98%A4%ED%9B%84%206.30.22.png)
+![images](../images/2023-11-17-change-branch-name/screenshoot3.png)
 
 4. **로컬 Repository** 에서 아래의 **명령어** 를 차례대로 실행해 업데이트를 합니다.
 
