@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "기본 브랜치 이름 변경 (main, master)"
+title: "[Github] 기본 브랜치 이름 변경 (main, master)"
 categories: git
 tags: [github, branch]
 ---
 
-[Github] 기본 브랜치 이름 변경 (main, master)
-========================================
+
 
 > 이 포스팅은 스스로 학습을 하고 관련 내용을 복습하기 위해 작성한 글입니다.   
 > 잘못된 내용이 있을 수 있습니다.
