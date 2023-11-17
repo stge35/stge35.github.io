@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "나는 지금 잘하고 있는 것일까?."
+title: "기본 브랜치 이름 변경 (main, master)"
 categories: git
 tags: [github, branch]
 ---
